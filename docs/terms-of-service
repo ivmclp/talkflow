@@ -1,1 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TalkFlow - Terms of Service</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Terms of Service</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="purchase.html">Purchase</a></li>
+                <li><a href="privacy-policy.html">Privacy Policy</a></li>
+                <li><a href="terms-of-service.html">Terms of Service</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="terms">
+        <h2>Acceptance of Terms</h2>
+        <p>By using TalkFlow, you agree to the following terms and conditions. If you do not agree, you must stop using our services immediately.</p>
+        
+        <h2>Services Provided</h2>
+        <p>TalkFlow offers AI-powered chatbot services, including free trial access and paid subscription options.</p>
+
+        <h2>User Responsibilities</h2>
+        <p>You are responsible for maintaining the confidentiality of your account details and for all activities under your account.</p>
+
+        <h2>Payment Terms</h2>
+        <p>TalkFlow offers a free trial with limited features, followed by a subscription-based service with a recurring monthly charge. By subscribing, you authorize TalkFlow to charge the specified amount to your payment method.</p>
+
+        <h2>Termination of Service</h2>
+        <p>We may suspend or terminate your access to our services if we believe you have violated any of our terms.</p>
+
+        <h2>Limitation of Liability</h2>
+        <p>TalkFlow is not liable for any damages resulting from the use or inability to use the service, including loss of data or profits.</p>
+
+        <h2>Privacy</h2>
+        <p>Your personal information is collected as outlined in our Privacy Policy. By using TalkFlow, you consent to the collection and use of your information in accordance with that policy.</p>
+
+        <h2>Modifications to Terms</h2>
+        <p>We reserve the right to change these terms at any time. Any changes will be posted on this page and will take effect immediately.</p>
+
+        <h2>Date of Effect</h2>
+        <p>These terms are effective as of <strong>February 23, 2025</strong>.</p>
+    </section>
+
+    <footer>
+        <p>© 2025 TalkFlow. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
 
