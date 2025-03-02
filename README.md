@@ -5,8 +5,7 @@ Our AI Chatbot Service provides businesses with a fully automated solution for c
 
 ## Features
 - **Free Trial**: Test all features for 30 days.
-- **Basic Plan**: $29/month with essential chatbot features.
 - **Premium Plan**: $49/month with advanced features and priority support.
-- **Customizable**: Tailor the chatbot for your business needs.
+- **Customizable**: Tailor the chatbot to your business needs.
 
 
